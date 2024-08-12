@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "325858491682",
+    "firebase_url": "https://chetapp-1ecfc-default-rtdb.firebaseio.com",
+    "project_id": "chetapp-1ecfc",
+    "storage_bucket": "chetapp-1ecfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325858491682:android:4e1bc5c23d5192d7d6397b",
+        "android_client_info": {
+          "package_name": "com.example.chet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325858491682-5qf0ejses2ulvaspps78lqv9tun9brj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chet_app",
+            "certificate_hash": "2c4715d9a949d65f1d9bf7169092dbe1e236d767"
+          }
+        },
+        {
+          "client_id": "325858491682-n10qmss65pc7kceh8a57ss8vnrkk9ldm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZudg6bbRJowY8YEluTerFxEPHLNhYmqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325858491682-n10qmss65pc7kceh8a57ss8vnrkk9ldm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325858491682-gv9klif7kusfins5lc25qiv48u2jhl9q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chetApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
